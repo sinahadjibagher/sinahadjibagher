@@ -22,6 +22,7 @@
 
 ## 🎓 Certifications  
 
-- 🏅 Cisco IT Essentials Certification  
+- 🏅 [Cisco IT Essentials Certification (NetAcad)](certificates/Cisco Networking Academy IT Essentials Certificate.pdf)
+
 
 ---
